@@ -7,7 +7,7 @@ import os
 
 #-Write Versions File-#
 #~~~~~~~~~~~~~~~~~~~~~#
-#This is just a test to see if I can do tings
+#Okay now I'm making changes to my branch
 
 VERSION = '0.4.1'
 
